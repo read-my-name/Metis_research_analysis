@@ -1,0 +1,55 @@
+{
+    "named_wallets": [
+        {
+            "address": "0x3980c9ed79d2c191a89e02fa3529c60ed6e9c04b",
+            "name": "Metis Andromeda: Bridge",
+            "quantity": 7397135.153798035,
+            "percentage": "73.9714%",
+            "value": "$286,195,159.10"
+        },
+        {
+            "address": "0x5bdf85216ec1e38d6458c870992a69e38e03f7ef",
+            "name": "Bitget 5",
+            "quantity": 46695.65002153641,
+            "percentage": "0.4670%",
+            "value": "$1,806,654.70"
+        },
+        {
+            "address": "0x1c98562a2fab5af19d8fb3291a36ac3c618835d9",
+            "name": "Uniswap V3: Metis",
+            "quantity": 34705.728878919035,
+            "percentage": "0.3471%",
+            "value": "$1,342,764.65"
+        },
+        {
+            "address": "0x28c6c06298d514db089934071355e5743bf21d60",
+            "name": "Binance 14",
+            "quantity": 19912.371559637235,
+            "percentage": "0.1991%",
+            "value": "$770,409.66"
+        },
+        {
+            "address": "0x9642b23ed1e01df1092b92641051881a322f5d4e",
+            "name": "MEXC 16",
+            "quantity": 12160.549510370787,
+            "percentage": "0.1216%",
+            "value": "$470,491.66"
+        }
+    ],
+    "unnamed_wallets": [
+        {
+            "address": "0x0fe382b74c3894b65c10e5c12ae60bbd8faf5b48",
+            "name": null,
+            "quantity": 454651.27370654314,
+            "percentage": "4.5465%",
+            "value": "$17,590,457.78"
+        },
+        {
+            "address": "0x8c33bb896f6384a75a81413a3205d108c01da13d",
+            "name": null,
+            "quantity": 100000.0,
+            "percentage": "1.0000%",
+            "value": "$3,869,000.00"
+        }
+    ]
+}
